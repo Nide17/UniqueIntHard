@@ -1,3 +1,0 @@
-/mnt/c/Users/Parmenide/Desktop/CMU/Data Structures and Algorithms for Engineers/Assignments/Assignment 3/UniqueIntHard/v2/bin/CMakeFiles/homework.dir
-/mnt/c/Users/Parmenide/Desktop/CMU/Data Structures and Algorithms for Engineers/Assignments/Assignment 3/UniqueIntHard/v2/bin/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Parmenide/Desktop/CMU/Data Structures and Algorithms for Engineers/Assignments/Assignment 3/UniqueIntHard/v2/bin/CMakeFiles/rebuild_cache.dir
